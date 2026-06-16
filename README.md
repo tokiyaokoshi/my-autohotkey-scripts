@@ -1,0 +1,2 @@
+# my-autohotkey-scripts
+Windowsの作業を快適にするAutoHotkey(v2)スクリプト集。繰り返し行われる動作の自動化や、独自の便利ショートカットキーを追加してPC作業を効率化します。
