@@ -17,20 +17,8 @@ Sleep(300)
 Run("chrome.exe https://calendar.google.com/")
 Sleep(300)
 
-; 2. Visual Studio Code を最大化で開く
-Run("code", , "Max")
-Sleep(500)
-
-; 3. Microsoft Edge を最大化で開く
-Run("msedge.exe", , "Max")
-Sleep(300)
-
-; 4. Outlook を最大化で開く
-Run("outlook.exe", , "Max")
-Sleep(500)
-
-; 5. PowerPoint を最大化で開く（最後に開くため最前面に表示されます）
-Run("powerpnt.exe", , "Max")
+; 3. Outlook を最大化で開く
+Run("olk.exe", , "Max")
 Sleep(500)
 
 ; すべての起動処理が完了したらスクリプトを自動終了
